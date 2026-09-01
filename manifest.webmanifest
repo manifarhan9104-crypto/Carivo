@@ -1,0 +1,12 @@
+{
+  "name":"Carivo | خرید و فروش خودرو",
+  "short_name":"Carivo",
+  "lang":"fa",
+  "dir":"rtl",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f6f8fb",
+  "theme_color":"#16a34a",
+  "description":"بازار هوشمند خرید و فروش خودرو",
+  "icons":[]
+}
